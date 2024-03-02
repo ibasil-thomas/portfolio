@@ -1,4 +1,7 @@
+## Hi, I'm Basil Thomas
+I have 7 years of experience in analysis, design, configuration, development, testing, and implementation of web-based business solutions using Microsoft Technologies, Cloud platform and other front-end frameworks. An effective communicator with excellent interpersonal, logical thinking and analytical abilities. I am dedicated to writing and refactoring clean, reusable, and scalable code applying good practices and development standards.
 
+Click the link to open my portfolio: https://basilthomas.vercel.app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
