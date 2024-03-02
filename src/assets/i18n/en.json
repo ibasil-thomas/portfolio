@@ -1,0 +1,58 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "BasilThomas_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>7 years of experience</span> in analysis, design, configuration, development, testing, and implementation of web-based business solutions using Microsoft Technologies, Cloud platform and other front-end frameworks. An effective communicator with excellent interpersonal, logical thinking and analytical abilities. I am dedicated to writing and refactoring clean, reusable, and scalable code applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>7 years as a software developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'> ASP.NET, NodeJS, MongoDB and MS SQL</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements like <span class='underline'> server upgrades, optimizing legacy applications, optimizing sites </span> and <span class='underline'>improving the security aspect of websites, standardizing patterns,</span> suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Teranet Inc.",
+            "Title": "Software Engineer",
+            "Date": "September 2019 - November 2023",
+            "Description": [
+                "Introduced agile methodologies and effective development of best practices to division to enhance product development.",
+                "Improved system performance by making proactive adjustments and resolving bugs.",
+                "Directed software design and development across multifaceted team to meet client needs for functionality, timeline, and performance.",
+                "Writing scalable code for .NET software applications, improved the performance of application by introducing efficient strategies, design patterns and SOLID principles with OOPs concepts, following TDD approach and API enhancements in both frontend and backend.",
+                "Designed and implemented RESTful APIs to support multiple applications, using .NET Core.",
+                "Working closely with the product management and design team to define feature requirements and deliver the product that materially impacts the business and improves the customer experience.",
+                "Participating in code reviews to ensure that each increment adheres to user story and all standard resource libraries and architecture patterns as appropriate.",
+                "Creating or Updating documentation in support of development efforts. Documents may include detailed technical specifications, implementation guides, architecture diagrams or design documents",
+                "Deploying functional websites, programs, and applications using CI/CD pipeline and Azure DevOps.",
+                "Developed libraries and API’s C# .NET, Angular, CSS and SQL server which are reused across CMS for building apps."
+            ]
+        },
+        
+        {
+            "Tab": "Speridian Technologies",
+            "Title": "Software Developer",
+            "Date": "August 2016 - August 2019",
+            "Description": [
+                "Identified and tracked defects in applications and supported developers in resolving problems by completing additional tests.",
+                "Wrote and optimized test cases to maximize success of manual software testing with consistent, thorough approaches.",
+                "Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support team use.",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences using VueJS",
+                "Debugged code and located root causes of problems by reviewing configuration files and logs.",
+                "Worked with project managers, developers, quality assurance and customers to resolve technical issues.",
+                "Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.",
+                "Supported software integration and implemented maintenance enhancements",
+                "Refactoring and optimizing application load times."
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "If you want to discuss new prospects, I would be delighted to receive your contact information. Write to me, and I will respond as soon as I receive your message.",
+    "Contact.Btn": "Say Hello"
+}
